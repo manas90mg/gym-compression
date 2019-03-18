@@ -1,0 +1,1 @@
+from gym_compression.envs.compression_env import CompressionEnv
